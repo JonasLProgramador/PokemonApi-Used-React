@@ -30,7 +30,7 @@
             <pre><code>npm install</code></pre>
             <li>Inicie o servidor de desenvolvimento:</li>
             <pre><code>npm run dev</code></pre>
-            <li>Acesse o projeto no navegador em <a href="http://localhost:5432">http://localhost:5432</a>.</li>
+            <li>Acesse o projeto no navegador em <a href="http://localhost:porta_do_seu_eact">http://localhost:porta_do_seu_react</a>.</li>
         </ol>
         <h2>📦 Estrutura do Projeto</h2>
         <pre><code>
