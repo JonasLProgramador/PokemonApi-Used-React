@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 <!DOCTYPE html>
 <html lang="pt-BR">
 
@@ -30,7 +30,7 @@
             <pre><code>npm install</code></pre>
             <li>Inicie o servidor de desenvolvimento:</li>
             <pre><code>npm run dev</code></pre>
-            <li>Acesse o projeto no navegador em <a href="http://localhost:3000">http://localhost:3000</a>.</li>
+            <li>Acesse o projeto no navegador em <a href="http://localhost:5432">http://localhost:5432</a>.</li>
         </ol>
         <h2>📦 Estrutura do Projeto</h2>
         <pre><code>
@@ -60,13 +60,3 @@ pokemon-search-app/
     </div>
 </body>
 </html>
-=======
-# React + Vite
-
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
->>>>>>> bed5a11 (criando repositório)
