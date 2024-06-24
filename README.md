@@ -4,6 +4,7 @@
 <body>
     <div class="container">
         <h1>🔍 Projeto de Busca de Pokémon</h1>
+        <img src="https://github.com/JonasLProgramador/PokemonApi-Used-React/assets/172916273/0b310301-2d30-4dbe-95fc-184c60d85b37"/>
         <p>Este projeto é um aplicativo simples que consome a <strong>Pokémon API</strong> para buscar informações sobre um Pokémon específico e exibir seu card na tela. Foi desenvolvido como uma forma de consolidar conhecimentos em <strong>React</strong>.</p>
         <h2>📘 Visão Geral</h2>
         <p>O objetivo do projeto é permitir que os usuários pesquisem um Pokémon pelo nome e visualizem suas informações básicas, incluindo uma imagem do Pokémon. A interface é intuitiva e utiliza React para gerenciar os estados e a interação com a API.</p>
